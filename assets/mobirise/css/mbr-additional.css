@@ -1821,22 +1821,17 @@ body {
 .cid-s0HW3j4kZm .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-s0HZpSALxq {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background-color: #000000;
+.cid-s1s5rUoBsB {
+  background-image: url("../../../assets/images/junegle-bg-1-2000x2000.png");
 }
-@media (min-width: 992px) {
-  .cid-s0HZpSALxq .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-s1s5rUoBsB P {
+  color: #767676;
 }
-@media (max-width: 991px) {
-  .cid-s0HZpSALxq .mbr-figure {
-    padding-bottom: 1rem;
-  }
+.cid-s1s5rUoBsB .mbr-text,
+.cid-s1s5rUoBsB .mbr-section-btn {
+  color: #ffffff;
 }
-.cid-s0HZpSALxq .mbr-text {
+.cid-s1s5rUoBsB H1 {
   color: #ffffff;
 }
 .cid-s0I1KGQsYP {
