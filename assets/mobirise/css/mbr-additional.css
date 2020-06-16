@@ -3966,6 +3966,7 @@ body {
   padding-bottom: 1rem;
   padding-top: 1rem;
   white-space: normal !important;
+  color: #ffffff;
 }
 @media (max-width: 992px) {
   .cid-s1KExT05Zj .dataTables_filter {
