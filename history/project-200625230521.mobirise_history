@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cyber June'Gle",
-    "currentPage": "index.html",
+    "currentPage": "training.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,9 @@
     "uniqCompNum": 33,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/omar/Documents/GitHub/junegle"
   },
   "pages": {
     "index.html": {
